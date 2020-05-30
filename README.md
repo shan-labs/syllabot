@@ -10,4 +10,4 @@ A discord bot for syllabi information from [syllabi.hunterosc.org](http://syllab
 
 # License
 
-This project uses an MIT license, which can be viewed [here](file:LICENSE).
+This project uses an MIT license, which can be viewed [here](./LICENSE).
